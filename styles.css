@@ -319,6 +319,10 @@ input[type='checkbox'] {
   z-index: 100;
 }
 
+.nav__toggler {
+  color: purple; /* Change to your desired purple color */
+}
+
 .nav,
 .nav__list {
   display: flex;
