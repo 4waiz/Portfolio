@@ -554,7 +554,7 @@ position: relative;
     font-weight: 700;
     transition: color .3s; }
     .header__link:hover {
-      color: #9400b9; }
+      color: #a300b9; }
     @media only screen and (max-width: 56.25em) {
       .header__link {
         padding: 3rem 1.8rem;
